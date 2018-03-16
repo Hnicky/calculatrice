@@ -1,0 +1,47 @@
+body{
+
+}
+
+.calculatrice input{
+  width: 88%;
+  height: 60px;
+  margin-left: 5%;
+  margin-top: 8%;
+  margin-bottom: 10%;
+}
+
+.calculatrice{
+  background-color: black;
+  margin-left: 38%;
+  margin-right: 38%;
+}
+
+button{
+  width: 70px;
+  height: 75px;
+  margin-top: 10px;
+  margin-right: 15px;
+  margin-left: 5px;
+}
+
+.ligne1{
+  margin-left: 18px;
+}
+
+/* .ligne1 input{
+  height: 75px;
+  width: 70px;
+} */
+
+.ligne2{
+  margin-left: 18px;
+}
+
+.ligne3{
+  margin-left: 18px;
+}
+
+.ligne4{
+  margin-left: 18px;
+  padding-bottom: 8%;
+}
